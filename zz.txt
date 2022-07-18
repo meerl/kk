@@ -95,7 +95,6 @@ Hot亚洲影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/5841816227539527643/
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
 NewTV,#genre#
-NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 NewTV黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
 NewTV潮妈辣婆,http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
 NewTV潮妈辣婆,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
